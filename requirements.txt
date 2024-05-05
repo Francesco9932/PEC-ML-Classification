@@ -1,0 +1,11 @@
+# Python 3.10.12
+
+Pandas==1.5.3
+NumPy==1.24.4
+Matplotlib==3.8.2
+NLTK==3.8.1
+Scikit-learn==1.3.2
+SpaCy==3.7.2
+Sentence-Transformers==2.2.2
+PyTorch==2.1.2+cu121
+Transformers==4.36.1
